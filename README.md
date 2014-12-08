@@ -26,6 +26,7 @@ This table has three columns:
 * `age`: Integer, patient's current age
 * `name`: String, patient's name
 * `diabetes_type`: String, either `"type_1"` or `"type_2"`, describes [cause of diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus#Causes)
+* `join_date`: Date when user started using the app.  Format is `YYYY-MM-DD`
 
 Blood Glucose Reading Table:
 -----------------------------
