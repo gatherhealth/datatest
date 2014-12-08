@@ -46,4 +46,4 @@ Please write code to answer the following questions.
 * Are there any patients whose performance is clearly deteriorating or improving?
 * Does age or gender appear to have an influence on a patient's ability to control BG?
 
-Please submit your code by making a pull request to this repository.
+Please submit your code by forking this repository and sending us a link to the fork.
