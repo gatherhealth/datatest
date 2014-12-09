@@ -8,6 +8,8 @@ Generally, a healthy patient's blood glucose readings stay between 70 and 100 mg
 
 An unhealthy patient has difficulty controlling their blood glucose readings.  There may frequently be dangerous episodes during which their blood glucose falls far outside of this range.
 
+In other words, an unhealthy patient's readings will often have a higher standard deviation than those of a healthy patient.
+
 We often abbreviate "blood glucose" to "BG"
 
 Data Format
